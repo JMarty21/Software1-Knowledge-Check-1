@@ -1,0 +1,16 @@
+C:\Users\JMartindale\Downloads\Software1-Knowledge-Check-1-main\Software1-Knowledge-Check-1-main\KnowledgeCheck1_Calculator\obj\Debug\net5.0\KnowledgeCheck1_Calculator.csproj.AssemblyReference.cache
+C:\Users\JMartindale\Downloads\Software1-Knowledge-Check-1-main\Software1-Knowledge-Check-1-main\KnowledgeCheck1_Calculator\obj\Debug\net5.0\KnowledgeCheck1_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JMartindale\Downloads\Software1-Knowledge-Check-1-main\Software1-Knowledge-Check-1-main\KnowledgeCheck1_Calculator\obj\Debug\net5.0\KnowledgeCheck1_Calculator.AssemblyInfoInputs.cache
+C:\Users\JMartindale\Downloads\Software1-Knowledge-Check-1-main\Software1-Knowledge-Check-1-main\KnowledgeCheck1_Calculator\obj\Debug\net5.0\KnowledgeCheck1_Calculator.AssemblyInfo.cs
+C:\Users\JMartindale\Downloads\Software1-Knowledge-Check-1-main\Software1-Knowledge-Check-1-main\KnowledgeCheck1_Calculator\obj\Debug\net5.0\KnowledgeCheck1_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\JMartindale\Downloads\Software1-Knowledge-Check-1-main\Software1-Knowledge-Check-1-main\KnowledgeCheck1_Calculator\bin\Debug\net5.0\KnowledgeCheck1_Calculator.exe
+C:\Users\JMartindale\Downloads\Software1-Knowledge-Check-1-main\Software1-Knowledge-Check-1-main\KnowledgeCheck1_Calculator\bin\Debug\net5.0\KnowledgeCheck1_Calculator.deps.json
+C:\Users\JMartindale\Downloads\Software1-Knowledge-Check-1-main\Software1-Knowledge-Check-1-main\KnowledgeCheck1_Calculator\bin\Debug\net5.0\KnowledgeCheck1_Calculator.runtimeconfig.json
+C:\Users\JMartindale\Downloads\Software1-Knowledge-Check-1-main\Software1-Knowledge-Check-1-main\KnowledgeCheck1_Calculator\bin\Debug\net5.0\KnowledgeCheck1_Calculator.runtimeconfig.dev.json
+C:\Users\JMartindale\Downloads\Software1-Knowledge-Check-1-main\Software1-Knowledge-Check-1-main\KnowledgeCheck1_Calculator\bin\Debug\net5.0\KnowledgeCheck1_Calculator.dll
+C:\Users\JMartindale\Downloads\Software1-Knowledge-Check-1-main\Software1-Knowledge-Check-1-main\KnowledgeCheck1_Calculator\bin\Debug\net5.0\KnowledgeCheck1_Calculator.pdb
+C:\Users\JMartindale\Downloads\Software1-Knowledge-Check-1-main\Software1-Knowledge-Check-1-main\KnowledgeCheck1_Calculator\obj\Debug\net5.0\KnowledgeCheck1_Calculator.dll
+C:\Users\JMartindale\Downloads\Software1-Knowledge-Check-1-main\Software1-Knowledge-Check-1-main\KnowledgeCheck1_Calculator\obj\Debug\net5.0\refint\KnowledgeCheck1_Calculator.dll
+C:\Users\JMartindale\Downloads\Software1-Knowledge-Check-1-main\Software1-Knowledge-Check-1-main\KnowledgeCheck1_Calculator\obj\Debug\net5.0\KnowledgeCheck1_Calculator.pdb
+C:\Users\JMartindale\Downloads\Software1-Knowledge-Check-1-main\Software1-Knowledge-Check-1-main\KnowledgeCheck1_Calculator\obj\Debug\net5.0\KnowledgeCheck1_Calculator.genruntimeconfig.cache
+C:\Users\JMartindale\Downloads\Software1-Knowledge-Check-1-main\Software1-Knowledge-Check-1-main\KnowledgeCheck1_Calculator\obj\Debug\net5.0\ref\KnowledgeCheck1_Calculator.dll

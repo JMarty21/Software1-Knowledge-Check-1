@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zPE6dq3RPa7Gu9DgpSxttuw6vt5iNJADFOo4qswOjSgGYJxUZXooksud5dnn9Ixo86ty5hZcLsTVNsDy48hx5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JMartindale\\Downloads\\Software1-Knowledge-Check-1-main\\Software1-Knowledge-Check-1-main\\KnowledgeCheck1_Calculator\\KnowledgeCheck1_Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JMartindale\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
