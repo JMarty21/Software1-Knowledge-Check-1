@@ -51,7 +51,7 @@ namespace KnowledgeCheck1_Calculator
                     break;
 
                 case "3":
-                    Console.WriteLine("Enter 2 integers to subtract");
+                    Console.WriteLine("Enter 2 integers to multiply");
                     var multiplyNumber1 = Console.ReadLine();
                     var multiplyNumber2 = Console.ReadLine();
 
